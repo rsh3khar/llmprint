@@ -2,9 +2,8 @@ from setuptools import find_packages, setup
 
 setup(
     name="llmprint",
-    version="0.1.1",
+    version="0.1.2",
     author="Raj Shekhar",
-    author_email="rsh3khar@gmail.com",
     description="CLI tool to print directory structure and file contents for LLM context generation",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
